@@ -12,7 +12,7 @@ const Navbar = () => {
   const cardItem = useSelector(state => state.cart.cartItems.length)
   const navigation = [
     { name: "Dashboard", href: "/user-dashboard" },
-    { name: "Orders", href: "/order" },
+    { name: "Orders", href: "/orders" },
     { name: "Cart Page", href: "/cart" },
     { name: "Check Out", href: "/checkout" },
   ]
