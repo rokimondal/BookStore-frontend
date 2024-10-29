@@ -1,5 +1,5 @@
 function getBaseUrl() {
-    return "http://localhost:3001";
+    return "https://book-store-backend-ten-iota.vercel.app";
 }
 
 export default getBaseUrl;
