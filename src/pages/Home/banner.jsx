@@ -4,7 +4,7 @@ import { getImgUrl } from "../../utils/getImgUrl"
 const Banner = () => {
   return (
     <div className="flex flex-col md:flex-row-reverse py-10 justify-between item-center gap-12 ">
-      <div className="outer-box mr-10 md:w-1/2 w-full flex md:justify-end justify-center items-center">
+      <div className="outer-box mr-10 h-[240px] md:w-1/2 w-full flex md:justify-end justify-center items-center">
         <img
           src={`${getImgUrl("book-8.png")}`}
           alt="book"
