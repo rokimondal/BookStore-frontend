@@ -50,3 +50,60 @@
    border-radius: 8px;
    /* Rounded corners */
 }
+/* * {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.outer-box {
+   width: 30vw;
+   position: relative;
+   margin: auto;
+   top: 50px;
+}
+.book-image {
+   height: 250px;
+   position: absolute;
+} */
+
+.img1 {
+   position: relative;
+   left: 100px;
+   z-index: 3;
+   transition: 0.2s ease-out;
+}
+
+.img1:hover {
+   box-shadow: inset 0 0 0 10px rgb(196, 40, 85);
+   border: 5px solid rgb(196, 40, 85);
+   transform: scale(0.95);
+}
+
+.img2 {
+   position: relative;
+   height: 220px;
+   z-index: 2;
+   left: 40px;
+   transition: 0.2s ease-in-out;
+}
+
+.img2:hover {
+   box-shadow: inset 0 0 0 10px rgb(28,120,100);
+   border: 5px solid rgb(28, 120, 100);
+   transform: translate(30%)
+}
+
+.img3 {
+   position: relative;
+   height: 190px;
+   z-index: 1;
+   left: -20px;
+   transition: 0.2s ease-in-out;
+}
+
+.img3:hover {
+   box-shadow: inset 0 0 0 10px rgb(196, 176, 0);
+   border: 5px solid rgb(196, 176, 0);
+   transform: translate(40%)
+}
