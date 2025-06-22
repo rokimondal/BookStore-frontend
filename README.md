@@ -1,6 +1,6 @@
 # 📚 BookStore-frontend
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=43B581&center=true&vCenter=true&repeat=false&width=1000&height=40&lines=BookStore-frontend)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=43B581&center=true&vCenter=true&repeat=false&width=1000&height=40&lines=BookStore-frontend;A+cutting-edge+project+by+rokimondal)
 
 [![Stars](https://img.shields.io/github/stars/rokimondal/BookStore-frontend?style=for-the-badge)](https://github.com/rokimondal/BookStore-frontend/stargazers)
 [![Forks](https://img.shields.io/github/forks/rokimondal/BookStore-frontend?style=for-the-badge)](https://github.com/rokimondal/BookStore-frontend/network/members)
